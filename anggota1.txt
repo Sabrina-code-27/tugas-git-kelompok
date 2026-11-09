@@ -1,0 +1,3 @@
+Nama : Risha 
+Tugas : Membuat halaman utama website
+Branch: Risha
